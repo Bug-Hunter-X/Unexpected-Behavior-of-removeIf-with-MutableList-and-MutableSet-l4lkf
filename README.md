@@ -1,0 +1,2 @@
+# Kotlin removeIf Unexpected Behavior
+This repository demonstrates an uncommon, subtle bug related to the `removeIf` function in Kotlin when used with `MutableList` and `MutableSet` and the potential for unexpected behavior if not handled properly. The bug is showcased in `removeIfBug.kt`, and a solution is provided in `removeIfSolution.kt`.
